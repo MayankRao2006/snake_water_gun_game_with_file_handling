@@ -37,16 +37,4 @@ Python 3.x
 
 Works in terminal, VS Code, Replit, and most Python editors
 
-🏁 Example
-yaml
-Copy
-Edit
-Your choice: s
-Computer chose: w
-Snake beats Water! You win this round!
-Player points: 1, Computer points: 0
-🚀 Getting Started
-bash
-Copy
-Edit
-python snake_water_gun.py
+
